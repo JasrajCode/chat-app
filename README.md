@@ -26,9 +26,5 @@ This Chat Application is a modern, user-friendly platform designed for seamless 
 
 ## Usage
 
-- **Create a Chat**: Navigate to the "Create Chat" page, select a user, and press "Start a new chat."
+- **Create a Chat**: Click "Create New Chat", select a user, and press "START A NEW CHAT"
 - **Send Messages**: Engage in real-time conversations with your contacts.
-
-## License
-
-This project is licensed under the MIT License.
